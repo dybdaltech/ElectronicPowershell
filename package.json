@@ -1,12 +1,12 @@
 {
-  "name": "ElePS",
+  "name": "ElectronicPowershell",
   "version": "0.1.0",
   "description": "Electron and Powershell project",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/dybdaltech/Eleps",
+  "repository": "https://github.com/dybdaltech/ElectronicPowershell",
   "keywords": [
     "Electron",
     "Powershell"
